@@ -1,0 +1,65 @@
+input#wpSummary{
+  background-color: #FFFFFF;
+}
+/*
+.diff-context, .diff-deletedline, .diffchange, .diffchange-inline, .diff-addedline { font-size:120%; }
+.diffchange-inline { border: 1px solid #5C717A; }
+*/
+.diffchange { font-weight:bold; background: #92DBFE; }
+
+    .mw-redirect {
+        color: #006633;
+    }
+    .mw-redirect:visited {
+        color: #008900;
+    }
+    .mw-redirect:hover {
+        color: #990000;
+    }
+    .mw-redirect:active {
+        color: #990000;
+    }
+
+#p-lang .body ul { font-family: sans-serif; }
+
+#p-insp{ 
+  display: none !important;
+}
+.rc-count{ display: none !important; }
+#rc_check_oldest { display: none; }
+
+.rcoptions {
+ font-size:10px;
+}
+
+#footer-addsectionbutton {
+   display:none;
+}
+
+#footer-addsectionbuttoncontainer {
+   display:none;
+}
+
+#BlockIntroTable{ 
+  display: none !important;
+}
+
+.portal {
+  margin-top: -3px !important;
+  padding-top: -3px !important;
+}
+
+#proveit {
+ background:white;
+ font-size:.8em;
+ position: sticky !important;
+ right:0;
+ bottom:0;
+ width:720px;
+ float:right;
+ z-index:9
+}
+
+.ve-init-mw-desktopArticleTarget-uneditableContent {
+pointer-events: auto !important;
+}
